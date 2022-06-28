@@ -1,16 +1,23 @@
-### Hi there 👋
+## Oi, eu sou Marcus Túlio 👋
 
-<!--
-**zMarcust-St/zMarcust-St** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Eu estou atualmente trabalhando com Java e Spring Boot.
+- 🌱 Estou cursado Ciências da Computação no IFCE - Campus Maracanaú.
+- 👾 Atualmente estou aprofundando conhecimentos sobre API.
 
-Here are some ideas to get you started:
+<hr size="5" width="100%"><ul>
+  
+  <li>Java 17</li>
+  <li>Spring Boot</li>
+  <li>Postgres</li>
+  <li>Postman</li>
+</ul>
+<br/>
+<div>
+  <a href="https://github.com/Marcust-St">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Marcust-St&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcust-St&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![Snake animation](https://github.com/Marcust-St/SteveNascimento/blob/output/github-contribution-grid-snake.svg)
