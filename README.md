@@ -23,10 +23,9 @@
   <a href="https://github.com/sMarcusT">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Marcus-Tulio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-Tulio&layout=compact&langs_count=7&theme=dark"/>
-   ![til](https://raw.githubusercontent.com/hashrocket/hr-til/master/app/assets/images/banner.png)
 </div>
 
-<p align="left">
+<p align="center">
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=sMarcusT&layout=compact&langs_count=7&theme=dark" />
   <img height="150em" src="https://user-images.githubusercontent.com/22433243/121538215-faa36d80-c9da-11eb-9dce-0def2d07ff62.gif" />
 </p> 
