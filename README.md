@@ -5,6 +5,8 @@
 - 👾 Atualmente estou aprofundando conhecimentos sobre API.
 
 <hr size="5" width="100%"><ul>
+ 
+### Languages & Tools 🛠
   
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)&nbsp;
 
