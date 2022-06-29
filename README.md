@@ -28,7 +28,7 @@
 
 <div>
   <a href="https://github.com/sMarcusT">
-  <p align="left">
+  <p align="rigth">
       <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-Tulio&layout=compact&langs_count=7&theme=dark"/>
   </p> 
 </div>
