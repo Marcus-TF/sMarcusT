@@ -21,16 +21,8 @@
 <br/>
 <div>
 <a href="https://github.com/sMarcusT">
-  <p align="left">  
       <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Marcus-Tulio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- </p> 
-</div>
-
-<div>
-  <a href="https://github.com/sMarcusT">
-  <p align="rigth">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-Tulio&layout=compact&langs_count=7&theme=dark"/>
-  </p> 
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-Tulio&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <p align="center">
