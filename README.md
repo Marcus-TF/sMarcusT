@@ -5,11 +5,14 @@
 - 👾 Atualmente estou aprofundando conhecimentos sobre API.
 
 <hr size="5" width="100%"><ul>
-  
-  <li>Java 17</li>
-  <li>Spring Boot</li>
-  <li>Postgres</li>
-  <li>Postman</li>
+  ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)&nbsp;
+  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+  ![Maven](https://img.shields.io/badge/-Maven-05122A?style=flat&logo=apache-maven&logoColor=white)&nbsp;
+  ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+  ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=white)&nbsp;
+  ![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=jetbrains)&nbsp;
 </ul>
 <br/>
 <div>
@@ -22,13 +25,6 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sMarcusT" />
   <img height="180em" src="https://user-images.githubusercontent.com/22433243/121538215-faa36d80-c9da-11eb-9dce-0def2d07ff62.gif" />
 </p> 
-  
-  <p align="left">
-<a href="https://github.com/sMarcusT">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=sMarcusT&count_private=true&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sMarcusT&layout=compact&langs_count=8&hide=HCL"/>
-</a>
-</p>
   
 <div>
   <a href = "mailto:zMarcust.st@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
