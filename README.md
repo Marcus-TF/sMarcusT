@@ -18,7 +18,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-Tulio&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-![Snake animation](https://github.com/Marcus-Tulio/Marcus-Tulio/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 <div>
   <a href = "mailto:zMarcust.st@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
