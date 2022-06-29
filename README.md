@@ -1,7 +1,7 @@
 ## Oi, eu sou Marcus Túlio 👋
 
 - 🔭 Eu estou atualmente trabalhando com Java e Spring Boot.
-- 🌱 Estou cursado Ciências da Computação no IFCE - Campus Maracanaú.
+- 🌱 Estou cursando Ciências da Computação no IFCE - Campus Maracanaú.
 - 👾 Atualmente estou aprofundando conhecimentos sobre API.
 
 <hr size="5" width="100%"><ul>
