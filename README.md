@@ -27,7 +27,7 @@
 
 <p align="left">
   <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sMarcusT&layout=compact&langs_count=7&theme=dark" />
-  <img align="center" height="180em" src="https://user-images.githubusercontent.com/22433243/121538215-faa36d80-c9da-11eb-9dce-0def2d07ff62.gif" />
+  <img height="180em" src="https://user-images.githubusercontent.com/22433243/121538215-faa36d80-c9da-11eb-9dce-0def2d07ff62.gif" />
 </p> 
   
 <div>
