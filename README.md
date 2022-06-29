@@ -6,7 +6,7 @@
 
 <hr size="5" width="100%"><ul>
  
-### Languages & Tools 🛠
+### Linguagens & Ferramentas 🛠
   
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)&nbsp;
 
