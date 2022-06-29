@@ -21,7 +21,7 @@
 <br/>
 <div>
   <a href="https://github.com/sMarcusT">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Marcus-Tulio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Marcus-Tulio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-Tulio&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
