@@ -30,7 +30,7 @@
   <img height="180em" src="https://user-images.githubusercontent.com/22433243/121538215-faa36d80-c9da-11eb-9dce-0def2d07ff62.gif" />
 </p> 
 
-![Snake animation](https://github.com/sMarcusT/sMarcusT/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/sMarcusT/blob/output/github-contribution-grid-snake.svg)
   
 <div>
 <p align="center">
