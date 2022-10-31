@@ -2,7 +2,7 @@
 
 - 🔭 Eu estou atualmente trabalhando com Java e Spring Boot.
 - 🌱 Estou cursando Ciências da Computação no IFCE - Campus Maracanaú.
-- 👾 Atualmente estou aprofundando conhecimentos sobre API.
+- 👾 Atualmente estou aprofundando conhecimentos sobre API, AWS, Banco de Dados e Docker.
 
 <hr size="5" width="100%"><ul>
  
